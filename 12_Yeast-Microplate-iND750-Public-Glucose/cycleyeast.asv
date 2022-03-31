@@ -1,0 +1,5 @@
+clear
+clc
+
+for i = 5:1:20
+    for j = 
